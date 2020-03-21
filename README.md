@@ -20,4 +20,4 @@ chmod +x arp_spoof.sh
 ./arp_spoof.sh
 
 
-# After you are in the bettercap session type hstshijack/hstshijack
+After you are in the bettercap session type hstshijack/hstshijack to downgrade https connections
