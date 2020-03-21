@@ -1,5 +1,5 @@
 # arp_spoof
-Simple automated tool to run MITM attacks and downgrade https connections to http
+Simple automated tool to run MITM attack and downgrade https connections to http
 
 Setup:
 
